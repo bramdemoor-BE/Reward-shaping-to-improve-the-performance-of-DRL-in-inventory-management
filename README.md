@@ -2,6 +2,7 @@
 Link to paper: https://www.ssrn.com/abstract=3804655 
 
 Abstract: 
+
 Deep reinforcement learning (DRL) has proven to be an effective, general-purpose technology to develop good replenishment policies in inventory management. Yet, despite formidable computational effort, DRL cannot always beat the state-of-the-art heuristics for stylized problems. We show how transfer learning from existing, well-performing heuristics may stabilize the training process and improve the performance of DRL in inventory control. Specifically, we apply potential-based reward shaping to improve the performance of a deep Q-network (DQN) algorithm to manage inventory of perishable goods which, cursed by dimensionality, has proven to be notoriously complex. Applying our approach using existing replenishment policies may not only reduce firms' replenishment costs, the increased stability may also help to gain trust in the policies obtained by black box DRL algorithms.
 
 Code:
